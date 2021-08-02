@@ -1,0 +1,20 @@
+{
+  "name": "botgta",
+  "version": "1.0.1",
+  "description": "Bot de diversão para seu servidor.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.7",
+    "install": "^0.13.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Demon#0801",
+  "license": "ISC"
+}
